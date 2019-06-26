@@ -2,7 +2,7 @@
 @import url("https://rawgit.com/PlusInsta/discord-plus/master/DiscordPlus.theme.css");
 @import url("https://fonts.googleapis.com/css?family=Poppins:400,700|Roboto:400,700|Righteous");
 :root {
-	--background: url('https://i.imgur.com/3AiL3yN.png');
+	--background: https://imgur.com/a/H2HijLu
 	--font: 'Poppins';
 	--font-text: 'Roboto';
 	--font-header: 'Righteous';
